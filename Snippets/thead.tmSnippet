@@ -10,6 +10,8 @@
 	<string>thead</string>
 	<key>scope</key>
 	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>thead</string>
 	<key>uuid</key>
 	<string>51B5FFC5-5154-41EF-8B4F-982C4001D701</string>
 </dict>
