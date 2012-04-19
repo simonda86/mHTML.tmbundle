@@ -21,6 +21,10 @@
 			<string>2945B767-7883-4923-9129-5A30226CDFFD</string>
 			<string>9F54B61D-2F89-4EEF-8996-D148837C5AA8</string>
 			<string>9DF71930-C9A3-451D-A139-BCECB135AE37</string>
+			<string>B86B4335-18DF-498D-9C0F-E095AC897F08</string>
+			<string>B5E8F3D3-3879-4257-830B-FA436EC22F51</string>
+			<string>D395E531-4FC8-4F0D-83CC-00FD7DCD7D4E</string>
+			<string>D6F8DB6E-2015-498E-8B20-6E2EC34637F4</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -135,6 +139,22 @@
 				</array>
 				<key>name</key>
 				<string>Form</string>
+			</dict>
+			<key>B86B4335-18DF-498D-9C0F-E095AC897F08</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F81E92F4-E50D-4B0C-B5CF-248430FCDEA9</string>
+					<string>50306317-BA20-42FB-91C5-B763E66AB2EA</string>
+					<string>------------------------------------</string>
+					<string>18271022-46FE-4942-AAB1-E88CB360B8F6</string>
+					<string>BE8AC7FD-711E-48D2-93A9-30F78E71AD76</string>
+					<string>------------------------------------</string>
+					<string>B9A58318-59CE-41CA-A2A0-995F064F9638</string>
+					<string>4C1F0B85-E055-40AB-9757-6A861F41B237</string>
+				</array>
+				<key>name</key>
+				<string>HTML5</string>
 			</dict>
 			<key>D858C80C-560A-4E19-B921-3120D39580DF</key>
 			<dict>
