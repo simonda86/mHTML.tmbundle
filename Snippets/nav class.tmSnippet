@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;nav${1: id="${2:name}"}&gt;
+	<string>&lt;nav${1: class="${2:name}"}&gt;
 	${3:$TM_SELECTED_TEXT}
 &lt;/nav&gt;</string>
 	<key>keyEquivalent</key>
 	<string>^@b</string>
 	<key>name</key>
-	<string>nav id</string>
+	<string>nav class</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>nav</string>
 	<key>uuid</key>
-	<string>D395E531-4FC8-4F0D-83CC-00FD7DCD7D4E</string>
+	<string>D0A3AE1F-7A1C-47BD-B33D-837C12579393</string>
 </dict>
 </plist>
