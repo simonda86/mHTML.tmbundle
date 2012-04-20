@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;button type="${1:submit/reset/button}" name="${2}" value="${3}"&gt;${4}</string>
+	<key>name</key>
+	<string>button</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>button</string>
+	<key>uuid</key>
+	<string>E48CF135-33B2-45A0-A8FF-C336ADAE8C76</string>
+</dict>
+</plist>
