@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;button type="${1:submit/reset/button}" name="${2}" value="${3}"&gt;${4}</string>
+	<string>&lt;button type="${1:submit/reset/button}" name="${2}" value="${3}"&gt;${4}&lt;/button&gt;</string>
 	<key>name</key>
 	<string>button</string>
 	<key>scope</key>
