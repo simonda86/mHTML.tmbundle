@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;label${1: for="${2:name}"}&gt;$3&lt;/label&gt;$0</string>
+	<string>&lt;label for="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}"&gt;$1&lt;/label&gt;</string>
 	<key>keyEquivalent</key>
 	<string>^~@f</string>
 	<key>name</key>
@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>lab</string>
+	<string>label</string>
 	<key>uuid</key>
 	<string>F2C9D7FA-2003-4B0D-8D9F-BE2D69D215D1</string>
 </dict>
